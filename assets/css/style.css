@@ -45,5 +45,5 @@ main form input[type="submit"]:hover {
 }
 
 textarea {
-    resize: none;
+    resize: vertical;
 }
